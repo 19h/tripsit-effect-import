@@ -1,0 +1,26 @@
+{
+  "name": "tripsit-effect-import",
+  "version": "1.0.0",
+  "description": "Tripsit drug effect import",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenanSulayman/tripsit-effect-import.git"
+  },
+  "author": "apx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenanSulayman/tripsit-effect-import/issues"
+  },
+  "homepage": "https://github.com/KenanSulayman/tripsit-effect-import#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "lodash": "^4.13.1",
+    "progress": "^1.1.8",
+    "request": "^2.72.0"
+  }
+}
